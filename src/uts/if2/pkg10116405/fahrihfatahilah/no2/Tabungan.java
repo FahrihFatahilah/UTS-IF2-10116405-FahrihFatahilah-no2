@@ -11,12 +11,7 @@ package uts.if2.pkg10116405.fahrihfatahilah.no2;
  * @author fahri
  */
 
-/**
- * @author Fahrih Fatahilah
- * Kelas : IF-2 / PBO-IF2
- * Nim   : 10116405
- * Deskripsi Program : Program penarikan uang
- */
+
 public class Tabungan {
     private int saldo;
     
